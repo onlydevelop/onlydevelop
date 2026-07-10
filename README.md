@@ -1,6 +1,6 @@
 # Dipanjan Bhowmik
 
-Backend engineer, 25+ years in. Distributed systems, JVM tuning, high-throughput services — most recently worked at Oracle Cloud Infrastructure, where I owned a hardware metrics-ingestion service handling ~100K requests/minute. Currently looking at Staff / Senior Staff roles, and using that search as an excuse to go build things properly rather than just read about them.
+Backend engineer, 25+ years in. Distributed systems, JVM tuning, high-throughput services — most recently worked at Oracle Cloud Infrastructure, where I owned a hardware metrics-ingestion service. Currently looking at Staff / Senior Staff roles, and using that search as an excuse to go build things properly rather than just read about them.
 
 What does a career's worth of production incidents actually teach you about system design? Mostly that the interesting decisions are the small ones — where you put a lock, how you name a queue, what you choose *not* to build. The projects below are an attempt to show that thinking directly, at a scale small enough to read in one sitting.
 
