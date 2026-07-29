@@ -1,6 +1,6 @@
 # Dipanjan Bhowmik
 
-Distributed systems engineer stabilizing high-throughput, cloud-native platforms. At Oracle Cloud Infrastructure, owned a metrics ingestion service handling hardware telemetry at scale. At Lexmark, built the AWS deployment pipeline and led legacy-platform refactoring for stability and performance. Now instrumenting AI workloads on the JVM against OpenTelemetry GenAI conventions.
+Distributed systems engineer stabilizing high-throughput, cloud-native platforms. At Oracle Cloud Infrastructure, owned a metrics ingestion service handling hardware telemetry at scale. At Lexmark, built the AWS deployment pipeline and led legacy-platform refactoring for stability and performance.
 
 Open to Staff/Principal Engineer roles and contract/consulting work in distributed systems, reliability, observability.
 
