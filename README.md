@@ -22,4 +22,4 @@ What does a career's worth of production incidents actually teach you about syst
 I write occasionally on engineering and infrastructure topics on LinkedIn. Learning Classical Guitar, managing multiple portfolio in my housing society, and have a excessive curiosity in various things from psychology to photography.
 
 ---
-*Open to Staff / Senior Staff Engineer conversations — feel free to reach out.*
+*Open to Staff Engineer / Contractual conversations — feel free to reach out.*
