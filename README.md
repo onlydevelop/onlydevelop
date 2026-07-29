@@ -1,11 +1,12 @@
 # Dipanjan Bhowmik
 
-Backend engineer, experienced in. Distributed systems, JVM tuning, high-throughput services — most recently worked at Oracle Cloud Infrastructure, where I owned a hardware metrics-ingestion service. Currently looking at Staff / Senior Staff roles, and using that search as an excuse to go build things properly rather than just read about them.
+Distributed systems engineer stabilizing high-throughput, cloud-native platforms. At Oracle Cloud Infrastructure, owned a metrics ingestion service handling hardware telemetry at scale. At Lexmark, built the AWS deployment pipeline and led legacy-platform refactoring for stability and performance. Now instrumenting AI workloads on the JVM against OpenTelemetry GenAI conventions.
+
+Open to Staff/Principal Engineer roles and contract/consulting work in distributed systems, reliability, observability.
 
 What does a career's worth of production incidents actually teach you about system design? Mostly that the interesting decisions are the small ones — where you put a lock, how you name a queue, what you choose *not* to build. The projects below are an attempt to show that thinking directly, at a scale small enough to read in one sitting.
 
 ## Start here
-
 
 
 | Project | What it demonstrates |
