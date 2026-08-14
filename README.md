@@ -16,6 +16,7 @@ What does a career's worth of production incidents actually teach you about syst
 | [otel-observability-stack](https://github.com/onlydevelop/otel-observability-stack) | End-to-end observability stack — OpenTelemetry traces propagated across services, Prometheus/Loki/Tempo, Grafana dashboards wired up from scratch. |
 | [fitness-function-build-gate](https://github.com/onlydevelop/fitness-function-build-gate) | A Gradle/Maven plugin that fails a build when code-smell thresholds are crossed, tested against a deliberately messy legacy codebase. |
 | [cloud-native-migration](https://github.com/onlydevelop/cloud-native-migration) | A Spring Boot order-monolith walked through a staged cloud-native migration, PR by PR — statelessness, containerization, health checks, Resilience4j circuit breakers/retries, OTel tracing + Prometheus metrics, K8s manifests, GitHub Actions CI/CD, idempotency keys, and a saga replacing the one-giant-transaction anti-pattern. |
+| [convoy](https://github.com/onlydevelop/Convoy) | A high-volume ingestion pipeline for a fleet of transport vehicles reporting geolocation, velocity, and related telemetry via REST, buffered through Kafka. |
 
 
 ## Elsewhere
